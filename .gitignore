@@ -1,0 +1,15 @@
+npm-debug.log
+node_modules
+bower_components
+.bowerrc
+.idea/*
+*.iml
+*.sublime-*
+.DS_Store
+/config.js
+
+pids
+logs
+results
+
+npm-debug.log

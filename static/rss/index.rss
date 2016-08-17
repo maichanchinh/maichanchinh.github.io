@@ -1,0 +1,49 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Mai Chân Chính -&gt; Lập nghiệp tuổi 24 (bỉm sữa)</title><description>Ước mơ thành một ông bụng to.
+Con đường tôi đang đi là DEVELOPER hiện có 4 năm kinh nghiệm lập trình về PHP, Andoird vài cái nhạt nhẽ nữa</description><link>http://localhost:2368/</link><generator>Ghost 0.9</generator><lastBuildDate>Wed, 17 Aug 2016 16:46:51 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Linux nó là hệ điều hành số một thế giới 6 với ưu điểm</title><description>&lt;p&gt;Nếu bảo là 6 thôi thì nhiều bạn đọc xong chủi mình mất, mình note lại những cái mình biết và qua kinh nghiệm của mình, bạn biết nhưng ưu điểm khác hãy comment thank you.&lt;/p&gt;
+
+&lt;p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Linux hoàn toàn miễn phí, nhưng không hề thua mac osx và windows có&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/p&gt;</description><link>http://localhost:2368/linux-no-la-he-dieu-hanh-so-mot-the-gioi-6-voi-uu/</link><guid isPermaLink="false">634f4ee2-876b-47b7-b498-347433ee2076</guid><category>Quản Lý Server</category><category>Systemp</category><category>Linux</category><category>Sysadmin</category><dc:creator>Mai Chân Chính</dc:creator><pubDate>Fri, 20 May 2016 00:40:52 GMT</pubDate><content:encoded>&lt;p&gt;Nếu bảo là 6 thôi thì nhiều bạn đọc xong chủi mình mất, mình note lại những cái mình biết và qua kinh nghiệm của mình, bạn biết nhưng ưu điểm khác hãy comment thank you.&lt;/p&gt;
+
+&lt;p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Linux hoàn toàn miễn phí, nhưng không hề thua mac osx và windows có nhiều cái còn nhỉnh hơn ý chứ.&lt;/strong&gt; &lt;br&gt;
+     Hệ điều hành Linux hoàn toàn miễn phí và được cập nhật thường xuyên. Bạn sẽ không cần phải lo bản quyền khi sử dụng nó. Đối với laptop hoặc máy tính bàn, hãy cài Ubuntu hoặc Fedora, nó rất đẹp và sexy như những cô gái tuổi 18&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Linux ổn định hơn gấp nhiều lần Windows, điều này chắc luôn, giời mình làm việc chủ yếu trên Mac và Linux.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;Máy chủ chạy Linux có thể hoạt động liên tục qua nhiều năm mà không gặp vấn đề nào. Hệ điều hành này có thể xử lý nhiều kết nối, nhiều tiến trình đồng thời tốt hơn nhiều so với Windows. Và đặt biệt bạn sẽ không gặp cảnh màn hình xanh chết chóc như Windows (thay vào đó có thể là kernel panic, nhưng không nhiều)&lt;/p&gt;  
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Linux vô cùng bảo mật, tất nhiên cả thế giới kiểm trứng rồi.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Linux là mã nguồn mở – “Open Source”, nó không phải là hệ điều hành an toàn và miễn nhiễm 100% với mã độc, virus. Tuy nhiên nó tốt hơn nhiều so với Windows, mã độc khó mà hoạt động trên môi trường Linux. Các lỗ hổng bảo mật cũng được cộng đồng đưa ra bản vá ngay lập tức.&lt;/p&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Phần cứng linh hoạt, chạy trên cực nhiều thiết bị chẳng hạn android.&lt;/strong&gt;  
+Linux rất tối ưu và không yêu cầu phần cứng phải nâng cấp liên tục như Windows, khổ nhất kiếm cái driver. Linux nhỏ gọn, linh hoạt và khả năng mở rộng cao, nó có thể hoạt động hầu hết trên nhiều loại phần cứng khác nhau.&lt;/p&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Linux có sức mạnh với dòng lệnh, ối cái này làm được  khối thứ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Quản trị Linux tất cả đều qua dòng lệnh với giao thức SSH là chủ yếu. Hãy tưởng tượng bạn quản trị nó và gõ lệnh như là dùng “thần chú” vậy. Câu lệnh nổi tiếng nhất là rm -rf /* (xem xét kỹ nếu lần đầu dùng lệnh này)&lt;/p&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Cộng đồng sử dụng Linux rộng lớn&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;  
+&lt;p&gt;Gần 80% máy chủ trên thế giới sử dụng hệ điều hành Linux, chưa tính các thiết bị di động và các thiết bị khác. Nó miễn phí, mã nguồn mở và cộng đồng sử dụng vô cùng lớn. Yên tâm sử dụng Linux vì 10 máy chủ đã có 8 máy chủ dùng hệ điều hành này.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;                                    Nguồn internet.
+&lt;/code&gt;&lt;/pre&gt;</content:encoded></item><item><title>Chú mèo đen (github) mang lại cho developer những gì ?</title><description>&lt;p&gt;Trờ lại trong một bài viết mới, tạm gác lại những series để viết về những câu chuyện bên lề xoay quanh cuộc đời coding, hôm nay tôi sẽ chia sẻ với các bạn về những lợi ích của Github mang lại cho developer chúng ta.
+
+Cho những bạn nào&lt;/p&gt;</description><link>http://localhost:2368/chu-meo-den-github-mang-lai-cho-developer-nhung/</link><guid isPermaLink="false">b35e866e-96b3-4509-9f9b-85dc5c086524</guid><category>Github</category><category>Công Nghệ</category><category>Lập Trình</category><category>Developer</category><dc:creator>Mai Chân Chính</dc:creator><pubDate>Fri, 20 May 2016 00:01:56 GMT</pubDate><content:encoded>&lt;p&gt;Trờ lại trong một bài viết mới, tạm gác lại những series để viết về những câu chuyện bên lề xoay quanh cuộc đời coding, hôm nay tôi sẽ chia sẻ với các bạn về những lợi ích của Github mang lại cho developer chúng ta.
+
+Cho những bạn nào chưa từng nghe về Github. Nói một cách đơn giản và ngắn gọn GitHub là một dịch vụ lưu trữ, quản lý source code trên mây, sử dụng Source Version Control là Git và hoàn toàn miễn phí. GitHub cung cấp chức năng của một Social Network như là feeds, followers và blabla… để các Developer giao tiếp với nhau.&lt;/p&gt;  
+
+&lt;figure class="tmblr-full" data-orig-height="625" data-orig-width="959" data-orig-src="http://66.media.tumblr.com/d351ba98de887f64a1ebd59d0f875693/tumblr_o7frhyv1tE1vudt7ao1_1280.jpg"&gt;&lt;img src="http://67.media.tumblr.com/d351ba98de887f64a1ebd59d0f875693/tumblr_inline_o7ftpjbdsG1rzi3q1_540.jpg" data-orig-height="625" data-orig-width="959" data-orig-src="http://66.media.tumblr.com/d351ba98de887f64a1ebd59d0f875693/tumblr_o7frhyv1tE1vudt7ao1_1280.jpg"&gt;&lt;/figure&gt;
+
+&lt;p&gt;Ngoài một profile Stackoverflow ấn tượng thì một tài khoản GitHub với nhiều repositories và tham gia đóng góp vào những project đa dạng khác nhau đem đến cho bạn nhiều lợi ích đáng kể, thậm chí có thể thay đổi cả sự nghiệp của bạn. Chắc các bạn đang thắc mắc, làm thế nào mà Github lại có thể ảnh hưởng nhiều đến thế. Đơn giản hãy xem những lợi ích mà Github mang lại cho Developer chúng ta.&lt;/p&gt;
+
+&lt;h3&gt;Github giúp chứng tỏ bạn là ai.&lt;/h3&gt;
+
+&lt;p&gt;Chẳng thể phủ nhận những lời hay ý đẹp bạn viết trong CV là cần thiết, nhưng dù gì thì đó cũng chỉ là những lời vô thưởng vô phạt, chẳng thể nói lên được gì nhiều, chỉ có những dòng code nằm trên Github mới là bất diệt. Source code luôn là minh chứng đanh thép để thể hiện bạn là developer thật thụ hay chỉ là thằng chém gió.&lt;/p&gt;
+
+&lt;p&gt;Hãy đầu tư cho mình một tài khoản Github thật ấn tượng và đưa đường dẫn vào trong CV, chẳng nhà tuyển dụng nào lại dại dột mà bỏ qua bạn đâu.&lt;/p&gt;
+
+&lt;h3&gt;Github giúp cải thiện kỹ năng code.&lt;/h3&gt;
+
+&lt;p&gt;Có hàng ngàn hàng vạn cách để học, học trên Github sẽ là một ý kiến không tồi trong thời đại này. Với hàng vạn open source projects, hàng trăm ngàn contributors, hàng tỉ commit mỗi ngày thì chỉ bằng việc xem, so sánh, học tập từ những thay đổi đó đã đem lại cho bạn hàng tá điều hay để cải thiện kỹ năng code của bản thân mình.&lt;/p&gt;
+
+&lt;h3&gt;Github là một kho tài nguyên tuyệt vời.&lt;/h3&gt;
+
+&lt;p&gt;Với chức năng Explore, bạn có thể theo dõi, tìm kiếm những open source projects theo đúng technology pattern mà bạn ưa thích.&lt;/p&gt;
+
+&lt;p&gt;Đừng ngần ngại mà không tạo ngay cho mình một tài khoảnGithub, tạo những project của riêng mình và chia sẻ với mọi người, hoặc bạn có thể thoải mái fork một project của một open source nào đó, tạo pull request hoặc issues nếu như tìm được lỗi, cần support.&lt;/p&gt;
+
+&lt;p&gt;Và nếu bạn còn bỡ ngỡ chưa biết làm gì sau khi tạo tài khoản Github thì &lt;a href="https://help.github.com/"&gt;https://help.github.com/&lt;/a&gt; và &lt;a href="https://guides.github.com/"&gt;https://guides.github.com/&lt;/a&gt; sẽ là những thứ vô cùng hữu ích với bạn.&lt;/p&gt;</content:encoded></item></channel></rss>
